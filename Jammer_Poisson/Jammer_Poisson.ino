@@ -55,7 +55,7 @@ void setup()
 
   rf95.setFrequency(frequency);
   // Setup Power,dBm
-  rf95.setTxPower(13);
+  rf95.setTxPower(14);
 
   // Setup Spreading Factor (6 ~ 12)
   rf95.setSpreadingFactor(7);
